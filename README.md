@@ -3,6 +3,8 @@
 This repository is implementation of homework for Computer Vision course in 2022 fall semester at National Taiwan University.
 
 ## Homework 1 Basic Image Manipulation
+![https://github.com/Jia-Wei-Liao/Computer_Vision/blob/main/HW1/figure/rotate45.png]
+
 ## Homework 2 Basic Image Manipulation
 ## Homework 3 Histogram Equalization
 ## Homework 4 Mathematical Morphology - Binary Morphology
