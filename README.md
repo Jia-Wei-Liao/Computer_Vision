@@ -6,8 +6,7 @@ This repository is implementation of homework for Computer Vision course in 2022
 <img src="https://github.com/Jia-Wei-Liao/Computer_Vision/blob/main/HW1/figure/rotate45.png" alt="Cover" width="25%"/>
 
 ## Homework 2 Basic Image Manipulation
-<img src="https://github.com/Jia-Wei-Liao/Computer_Vision/blob/main/HW2/figure/4_connected_components_image.png" alt="Cover" width="25%"/>
-![Image](https://github.com/Jia-Wei-Liao/Computer_Vision/blob/main/HW2/figure/4_connected_components_image.png =100x200)
+<img src="https://github.com/Jia-Wei-Liao/Computer_Vision/blob/main/HW2/figure/4_connected_components_image.png" alt="Cover" width="100"/>
 
 
 ## Homework 3 Histogram Equalization
