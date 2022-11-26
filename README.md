@@ -3,7 +3,7 @@
 This repository is implementation of homework for Computer Vision course in 2022 fall semester at National Taiwan University.
 
 ## Homework 1 Basic Image Manipulation
-<img src="https://github.com/Jia-Wei-Liao/Computer_Vision/blob/main/HW1/figure/rotate45.png" alt="Cover" width="50%"/>
+<img src="https://github.com/Jia-Wei-Liao/Computer_Vision/blob/main/HW1/figure/rotate45.png" alt="Cover" width="25%"/>
 
 ## Homework 2 Basic Image Manipulation
 ## Homework 3 Histogram Equalization
